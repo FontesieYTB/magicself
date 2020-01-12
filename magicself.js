@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 var prefix = ("//") //Votre prefix
-var token = ("Mzk5OTYyMzc5NTIzMzI1OTYz.XhsTBQ.I2h_3O6ZMlIQTFSgBp2l26EIVzc") //Votre token
+var token = ("") //Votre token
 
 
 
